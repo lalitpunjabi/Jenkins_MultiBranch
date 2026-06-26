@@ -18,7 +18,7 @@ pipeline {
     }
 
     environment {
-        NAME = "piyush"
+        NAME = "Lalit"
         DEPLOY_PATH = "/var/www/html"
     }
 
